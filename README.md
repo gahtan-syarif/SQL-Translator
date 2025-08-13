@@ -10,7 +10,7 @@ You need Python installed. Run the following commands:
 1. Clone the repository:
 ```bash
 git clone https://github.com/gahtan-syarif/SQL-Translator.git
-cd SQL-Dialect-Translator
+cd SQL-Translator
 ```
 
 2. Install dependencies:
