@@ -2,6 +2,8 @@
 
 A simple Python + Tkinter GUI tool to convert SQL queries between different dialects using [`sqlglot`](https://github.com/tobymao/sqlglot).
 
+![demo](https://github.com/user-attachments/assets/721abedc-7a15-4d68-b0a6-2b8c01a68455)
+
 ## Usage
 You need Python installed. Run the following commands:
 
