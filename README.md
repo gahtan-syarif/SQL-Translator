@@ -13,9 +13,9 @@ git clone https://github.com/gahtan-syarif/SQL-Translator.git
 cd SQL-Translator
 ```
 
-2. Install dependencies:
+2. Install sqlglot dependency:
 ```bash
-pip install -r requirements.txt
+pip install sqlglot
 ```
 
 3. Run the script:
