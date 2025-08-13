@@ -1,2 +1,24 @@
-# SQL-Translator
+# SQL Translator
+
 A simple Python + Tkinter GUI tool to convert SQL queries between different dialects using [`sqlglot`](https://github.com/tobymao/sqlglot).
+
+## Usage
+You need Python installed. Run the following commands:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/gahtan-syarif/SQL-Translator.git
+cd SQL-Dialect-Translator
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the script:
+```bash
+python SQLTranslator.py
+```
+
+
